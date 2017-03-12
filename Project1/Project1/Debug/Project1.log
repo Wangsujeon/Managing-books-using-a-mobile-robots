@@ -1,0 +1,2 @@
+﻿  book.cpp
+e:\project1\project1\book.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'baseapi.h': No such file or directory

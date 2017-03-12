@@ -1,0 +1,24 @@
+﻿  book.cpp
+e:\project1\libdata\tesseract\api\baseapi.h(594): warning C4099: 'ETEXT_DESC': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  e:\project1\libdata\tesseract\api\baseapi.h(56): note: 'ETEXT_DESC' 선언을 참조하십시오.
+e:\project1\libdata\opencv\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+e:\project1\libdata\opencv\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+e:\project1\libdata\opencv\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+e:\project1\libdata\opencv\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+e:\project1\project1\book.cpp(83): warning C4101: 'outText' :참조되지 않은 지역 변수입니다.
+e:\project1\project1\book.cpp(88): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+e:\project1\project1\book.cpp(85): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+e:\project1\project1\book.cpp(156): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(157): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(158): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(159): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(162): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(163): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(164): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(171): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(185): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(187): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(312): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\project1\project1\book.cpp(321): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project1.vcxproj -> E:\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> E:\Project1\x64\Debug\Project1.pdb (Partial PDB)
